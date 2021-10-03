@@ -1,8 +1,25 @@
-# Self Assessment 1
+# Hands-on assignment 1 – Self assessment
 
-1. - [x] README.md
-2. - [ ] CSV files
-3. HTML
-    1. - [ ] datasetRequirements.html
-    2. - [ ] applicationRequirements.html
-4. - [x] Markdown with the hands-on self-assessment
+## Checklist
+
+**The “README.md” file:**
+
+- [x] Includes the names and GitHub users of all the members of the group
+
+**The "csv" directory:**
+
+- [x] Contains at least one CSV file 
+- [x] The CSV files belong to one of the selected domains
+
+**The "datasetRequirements.html" file:**
+
+- [ ] Identifies the licenses of all the selected datasets
+- [ ] Identifies those entities in the selected datasets that can be linked with entities in other datasets
+- [ ] Identifies those entities in other datasets that can be linked with entities in the selected datasets 
+
+**The "applicationRequirements.html” file:**
+
+- [ ] Includes a description of the application user interface
+
+## Comments on the self-assessment
+_(If required)_
